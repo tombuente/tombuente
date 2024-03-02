@@ -1,7 +1,7 @@
 ### Heya! 👋
 *hacking something...*
 
-I'm interested in system programming, robotics, CAD, and 3D printing!
+I'm interested in systems programming, robotics, CAD, and 3D printing!
 ```
 Operating systems: Arch Linux (workstation), FreeBSD (server)
 
