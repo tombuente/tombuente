@@ -10,7 +10,7 @@ Languages of choice: Go, Python, C
 Languages I occasionally use: Java, JavaScript
 ```
 
-Email `tombuente@protonmail.com`
+Email: `tombuente@protonmail.com`
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
