@@ -13,7 +13,6 @@ Languages I occasionally use: Java, JavaScript
 Email: `tombuente@protonmail.com`
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-
 xjMEZgyfYxYJKwYBBAHaRw8BAQdAUWmRKQHtG5WCC7XMNPM+veKz8PsgqdOZ
 K/VtPALKR+fNM3RvbWJ1ZW50ZUBwcm90b25tYWlsLmNvbSA8dG9tYnVlbnRl
 QHByb3Rvbm1haWwuY29tPsKMBBAWCgA+BYJmDJ9jBAsJBwgJkFGk1ZB7stge
