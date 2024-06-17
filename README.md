@@ -5,7 +5,7 @@ I'm interested in systems programming, robotics, CAD, and 3D printing!
 ```
 Operating systems: Arch Linux (workstation), FreeBSD (server)
 
-Languages of choice: Go, Python, C
+Languages of choice: Go, Python, Rust, C
 Languages I occasionally use: Java, JavaScript
 ```
 
