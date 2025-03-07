@@ -1,19 +1,5 @@
 ### Heya! 👋
-*hacking something...*
-
-I'm interested in systems programming, robotics, CAD, and 3D printing!
-```
-Operating systems:
-  Workstation: Arch Linux
-  Server: Proxmox, Debian, FreeBSD
-
-Languages of choice: Go, Python, C
-Languages I occasionally use: Java, Kotlin, JavaScript
-```
-
-I also like Docker :)
-
-Email: `tombuente@protonmail.com`
+`tombuente@protonmail.com`
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 xjMEZgyfYxYJKwYBBAHaRw8BAQdAUWmRKQHtG5WCC7XMNPM+veKz8PsgqdOZ
